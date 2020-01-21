@@ -1,0 +1,10 @@
+D:\git_site\Practice-Ulearn\ch2\linq-slideviews\bin\Debug\slides.txt
+D:\git_site\Practice-Ulearn\ch2\linq-slideviews\bin\Debug\visits.txt
+D:\git_site\Practice-Ulearn\ch2\linq-slideviews\bin\Debug\linq-slideviews.exe
+D:\git_site\Practice-Ulearn\ch2\linq-slideviews\bin\Debug\linq-slideviews.pdb
+D:\git_site\Practice-Ulearn\ch2\linq-slideviews\bin\Debug\nunit.framework.dll
+D:\git_site\Practice-Ulearn\ch2\linq-slideviews\obj\Debug\linq-slideviews.csprojAssemblyReference.cache
+D:\git_site\Practice-Ulearn\ch2\linq-slideviews\obj\Debug\linq-slideviews.csproj.CoreCompileInputs.cache
+D:\git_site\Practice-Ulearn\ch2\linq-slideviews\obj\Debug\linq-slideviews.csproj.CopyComplete
+D:\git_site\Practice-Ulearn\ch2\linq-slideviews\obj\Debug\linq-slideviews.exe
+D:\git_site\Practice-Ulearn\ch2\linq-slideviews\obj\Debug\linq-slideviews.pdb

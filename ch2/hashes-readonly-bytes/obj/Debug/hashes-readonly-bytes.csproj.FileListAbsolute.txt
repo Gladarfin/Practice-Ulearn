@@ -1,0 +1,10 @@
+D:\git_site\Practice-Ulearn\ch2\hashes-readonly-bytes\obj\Debug\hashes-readonly-bytes.csprojAssemblyReference.cache
+D:\git_site\Practice-Ulearn\ch2\hashes-readonly-bytes\obj\Debug\hashes-readonly-bytes.csproj.CoreCompileInputs.cache
+D:\git_site\Practice-Ulearn\ch2\hashes-readonly-bytes\bin\Debug\readonly-bytes.exe.config
+D:\git_site\Practice-Ulearn\ch2\hashes-readonly-bytes\bin\Debug\readonly-bytes.exe
+D:\git_site\Practice-Ulearn\ch2\hashes-readonly-bytes\bin\Debug\readonly-bytes.pdb
+D:\git_site\Practice-Ulearn\ch2\hashes-readonly-bytes\bin\Debug\nunit.framework.dll
+D:\git_site\Practice-Ulearn\ch2\hashes-readonly-bytes\bin\Debug\nunitlite.dll
+D:\git_site\Practice-Ulearn\ch2\hashes-readonly-bytes\obj\Debug\hashes-readonly-bytes.csproj.CopyComplete
+D:\git_site\Practice-Ulearn\ch2\hashes-readonly-bytes\obj\Debug\readonly-bytes.exe
+D:\git_site\Practice-Ulearn\ch2\hashes-readonly-bytes\obj\Debug\readonly-bytes.pdb

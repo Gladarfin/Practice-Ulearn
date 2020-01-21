@@ -1,0 +1,13 @@
+D:\git_site\Practice-Ulearn\ch2\func-rocket\bin\Debug\images\rocket.png
+D:\git_site\Practice-Ulearn\ch2\func-rocket\bin\Debug\images\target.png
+D:\git_site\Practice-Ulearn\ch2\func-rocket\bin\Debug\func-rocket.exe.config
+D:\git_site\Practice-Ulearn\ch2\func-rocket\bin\Debug\func-rocket.exe
+D:\git_site\Practice-Ulearn\ch2\func-rocket\bin\Debug\func-rocket.pdb
+D:\git_site\Practice-Ulearn\ch2\func-rocket\bin\Debug\nunit.framework.dll
+D:\git_site\Practice-Ulearn\ch2\func-rocket\obj\Debug\func-rocket.csprojAssemblyReference.cache
+D:\git_site\Practice-Ulearn\ch2\func-rocket\obj\Debug\func_rocket.Properties.Resources.resources
+D:\git_site\Practice-Ulearn\ch2\func-rocket\obj\Debug\func-rocket.csproj.GenerateResource.cache
+D:\git_site\Practice-Ulearn\ch2\func-rocket\obj\Debug\func-rocket.csproj.CoreCompileInputs.cache
+D:\git_site\Practice-Ulearn\ch2\func-rocket\obj\Debug\func-rocket.csproj.CopyComplete
+D:\git_site\Practice-Ulearn\ch2\func-rocket\obj\Debug\func-rocket.exe
+D:\git_site\Practice-Ulearn\ch2\func-rocket\obj\Debug\func-rocket.pdb

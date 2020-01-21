@@ -1,0 +1,10 @@
+D:\git_site\Practice-Ulearn\ch2\yield-return-smooth\obj\Debug\yield-return-smooth.csprojAssemblyReference.cache
+D:\git_site\Practice-Ulearn\ch2\yield-return-smooth\obj\Debug\yield-return-smooth.csproj.CoreCompileInputs.cache
+D:\git_site\Practice-Ulearn\ch2\yield-return-smooth\bin\Debug\yield.exe.config
+D:\git_site\Practice-Ulearn\ch2\yield-return-smooth\bin\Debug\yield.exe
+D:\git_site\Practice-Ulearn\ch2\yield-return-smooth\bin\Debug\yield.pdb
+D:\git_site\Practice-Ulearn\ch2\yield-return-smooth\bin\Debug\nunit.framework.dll
+D:\git_site\Practice-Ulearn\ch2\yield-return-smooth\bin\Debug\ZedGraph.dll
+D:\git_site\Practice-Ulearn\ch2\yield-return-smooth\obj\Debug\yield-return-smooth.csproj.CopyComplete
+D:\git_site\Practice-Ulearn\ch2\yield-return-smooth\obj\Debug\yield.exe
+D:\git_site\Practice-Ulearn\ch2\yield-return-smooth\obj\Debug\yield.pdb

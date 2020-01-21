@@ -1,0 +1,15 @@
+D:\git_site\Practice-Ulearn\ch2\Dungeon\bin\Debug\Dungeons\Dungeon4.txt
+D:\git_site\Practice-Ulearn\ch2\Dungeon\bin\Debug\Dungeons\Dungeon3.txt
+D:\git_site\Practice-Ulearn\ch2\Dungeon\bin\Debug\Dungeons\Dungeon2.txt
+D:\git_site\Practice-Ulearn\ch2\Dungeon\bin\Debug\Dungeons\Dungeon1.txt
+D:\git_site\Practice-Ulearn\ch2\Dungeon\bin\Debug\Dungeon.exe.config
+D:\git_site\Practice-Ulearn\ch2\Dungeon\bin\Debug\Dungeon.exe
+D:\git_site\Practice-Ulearn\ch2\Dungeon\bin\Debug\Dungeon.pdb
+D:\git_site\Practice-Ulearn\ch2\Dungeon\bin\Debug\nunit.framework.dll
+D:\git_site\Practice-Ulearn\ch2\Dungeon\obj\Debug\Dungeon.csprojAssemblyReference.cache
+D:\git_site\Practice-Ulearn\ch2\Dungeon\obj\Debug\Dungeon.Properties.Resources.resources
+D:\git_site\Practice-Ulearn\ch2\Dungeon\obj\Debug\Dungeon.csproj.GenerateResource.cache
+D:\git_site\Practice-Ulearn\ch2\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+D:\git_site\Practice-Ulearn\ch2\Dungeon\obj\Debug\Dungeon.csproj.CopyComplete
+D:\git_site\Practice-Ulearn\ch2\Dungeon\obj\Debug\Dungeon.exe
+D:\git_site\Practice-Ulearn\ch2\Dungeon\obj\Debug\Dungeon.pdb

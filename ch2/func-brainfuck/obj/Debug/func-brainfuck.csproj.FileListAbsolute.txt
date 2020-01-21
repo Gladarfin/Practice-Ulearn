@@ -1,0 +1,10 @@
+D:\git_site\Practice-Ulearn\ch2\func-brainfuck\bin\Debug\brainfuck.exe.config
+D:\git_site\Practice-Ulearn\ch2\func-brainfuck\bin\Debug\brainfuck.exe
+D:\git_site\Practice-Ulearn\ch2\func-brainfuck\bin\Debug\brainfuck.pdb
+D:\git_site\Practice-Ulearn\ch2\func-brainfuck\bin\Debug\nunit.framework.dll
+D:\git_site\Practice-Ulearn\ch2\func-brainfuck\bin\Debug\nunitlite.dll
+D:\git_site\Practice-Ulearn\ch2\func-brainfuck\obj\Debug\func-brainfuck.csprojAssemblyReference.cache
+D:\git_site\Practice-Ulearn\ch2\func-brainfuck\obj\Debug\func-brainfuck.csproj.CoreCompileInputs.cache
+D:\git_site\Practice-Ulearn\ch2\func-brainfuck\obj\Debug\func-brainfuck.csproj.CopyComplete
+D:\git_site\Practice-Ulearn\ch2\func-brainfuck\obj\Debug\brainfuck.exe
+D:\git_site\Practice-Ulearn\ch2\func-brainfuck\obj\Debug\brainfuck.pdb

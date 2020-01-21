@@ -1,0 +1,10 @@
+D:\git_site\Practice-Ulearn\ch2\hashes-ghosts\bin\Debug\ghost.exe.config
+D:\git_site\Practice-Ulearn\ch2\hashes-ghosts\bin\Debug\ghost.exe
+D:\git_site\Practice-Ulearn\ch2\hashes-ghosts\bin\Debug\ghost.pdb
+D:\git_site\Practice-Ulearn\ch2\hashes-ghosts\bin\Debug\nunit.framework.dll
+D:\git_site\Practice-Ulearn\ch2\hashes-ghosts\bin\Debug\nunitlite.dll
+D:\git_site\Practice-Ulearn\ch2\hashes-ghosts\obj\Debug\hashes-ghosts.csprojAssemblyReference.cache
+D:\git_site\Practice-Ulearn\ch2\hashes-ghosts\obj\Debug\hashes-ghosts.csproj.CoreCompileInputs.cache
+D:\git_site\Practice-Ulearn\ch2\hashes-ghosts\obj\Debug\hashes-ghosts.csproj.CopyComplete
+D:\git_site\Practice-Ulearn\ch2\hashes-ghosts\obj\Debug\ghost.exe
+D:\git_site\Practice-Ulearn\ch2\hashes-ghosts\obj\Debug\ghost.pdb

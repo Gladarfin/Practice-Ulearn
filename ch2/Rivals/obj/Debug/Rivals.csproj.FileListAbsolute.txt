@@ -1,0 +1,15 @@
+D:\git_site\Practice-Ulearn\ch2\Rivals\bin\Debug\Dungeons\Dungeon1.txt
+D:\git_site\Practice-Ulearn\ch2\Rivals\bin\Debug\Dungeons\Dungeon2.txt
+D:\git_site\Practice-Ulearn\ch2\Rivals\bin\Debug\Dungeons\Dungeon3.txt
+D:\git_site\Practice-Ulearn\ch2\Rivals\bin\Debug\Dungeons\Dungeon4.txt
+D:\git_site\Practice-Ulearn\ch2\Rivals\bin\Debug\Rivals.exe.config
+D:\git_site\Practice-Ulearn\ch2\Rivals\bin\Debug\Rivals.exe
+D:\git_site\Practice-Ulearn\ch2\Rivals\bin\Debug\Rivals.pdb
+D:\git_site\Practice-Ulearn\ch2\Rivals\bin\Debug\nunit.framework.dll
+D:\git_site\Practice-Ulearn\ch2\Rivals\obj\Debug\Rivals.csprojAssemblyReference.cache
+D:\git_site\Practice-Ulearn\ch2\Rivals\obj\Debug\Rivals.Properties.Resources.resources
+D:\git_site\Practice-Ulearn\ch2\Rivals\obj\Debug\Rivals.csproj.GenerateResource.cache
+D:\git_site\Practice-Ulearn\ch2\Rivals\obj\Debug\Rivals.csproj.CoreCompileInputs.cache
+D:\git_site\Practice-Ulearn\ch2\Rivals\obj\Debug\Rivals.csproj.CopyComplete
+D:\git_site\Practice-Ulearn\ch2\Rivals\obj\Debug\Rivals.exe
+D:\git_site\Practice-Ulearn\ch2\Rivals\obj\Debug\Rivals.pdb

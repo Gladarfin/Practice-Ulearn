@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="ghost.exe" fullname="D:/git_site/Practice-Ulearn/ch2/hashes-ghosts/bin/Debug/ghost.exe" testcasecount="5" result="Passed" start-time="2020-01-21 14:43:18Z" end-time="2020-01-21 14:43:18Z" duration="0.063939" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="25" random-seed="602419702">
+  <command-line><![CDATA["D:\git_site\Practice-Ulearn\ch2\hashes-ghosts\bin\Debug\ghost.exe"   ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1006" name="ghost.exe" fullname="D:/git_site/Practice-Ulearn/ch2/hashes-ghosts/bin/Debug/ghost.exe" runstate="Runnable" testcasecount="5" result="Passed" start-time="2020-01-21 14:43:18Z" end-time="2020-01-21 14:43:18Z" duration="0.063939" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="25">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="D:\git_site\Practice-Ulearn\ch2\hashes-ghosts\bin\Debug" machine-name="BARTIMAEUSPC" user="Bartimaeus" user-domain="BARTIMAEUSPC" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="D:\git_site\Practice-Ulearn\ch2\hashes-ghosts\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="5496" />
+      <property name="_APPDOMAIN" value="ghost.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1007" name="hashes" fullname="hashes" runstate="Runnable" testcasecount="5" result="Passed" start-time="2020-01-21 14:43:18Z" end-time="2020-01-21 14:43:18Z" duration="0.052658" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="25">
+      <test-suite type="TestFixture" id="1000" name="GhostsTest" fullname="hashes.GhostsTest" classname="hashes.GhostsTest" runstate="Runnable" testcasecount="5" result="Passed" start-time="2020-01-21 14:43:18Z" end-time="2020-01-21 14:43:18Z" duration="0.047784" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="25">
+        <test-case id="1003" name="GhostCatBreaksHashSet" fullname="hashes.GhostsTest.GhostCatBreaksHashSet" methodname="GhostCatBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1385419894" result="Passed" start-time="2020-01-21 14:43:18Z" end-time="2020-01-21 14:43:18Z" duration="0.018746" asserts="5" />
+        <test-case id="1004" name="GhostDocumentBreaksHashSet" fullname="hashes.GhostsTest.GhostDocumentBreaksHashSet" methodname="GhostDocumentBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="525458780" result="Passed" start-time="2020-01-21 14:43:18Z" end-time="2020-01-21 14:43:18Z" duration="0.001179" asserts="5" />
+        <test-case id="1005" name="GhostRobotBreaksHashSet" fullname="hashes.GhostsTest.GhostRobotBreaksHashSet" methodname="GhostRobotBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1533487457" result="Passed" start-time="2020-01-21 14:43:18Z" end-time="2020-01-21 14:43:18Z" duration="0.000934" asserts="5" />
+        <test-case id="1002" name="GhostSegmentBreaksHashSet" fullname="hashes.GhostsTest.GhostSegmentBreaksHashSet" methodname="GhostSegmentBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="1060415677" result="Passed" start-time="2020-01-21 14:43:18Z" end-time="2020-01-21 14:43:18Z" duration="0.001478" asserts="5" />
+        <test-case id="1001" name="GhostVectorBreaksHashSet" fullname="hashes.GhostsTest.GhostVectorBreaksHashSet" methodname="GhostVectorBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="871113250" result="Passed" start-time="2020-01-21 14:43:18Z" end-time="2020-01-21 14:43:18Z" duration="0.000389" asserts="5" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
