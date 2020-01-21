@@ -1,0 +1,7 @@
+D:\ulearn C#\ch1\Pluralize\bin\Debug\Pluralize.exe.config
+D:\ulearn C#\ch1\Pluralize\obj\Debug\Pluralize.csprojResolveAssemblyReference.cache
+D:\ulearn C#\ch1\Pluralize\bin\Debug\rubles.txt
+D:\ulearn C#\ch1\Pluralize\bin\Debug\Pluralize.exe
+D:\ulearn C#\ch1\Pluralize\bin\Debug\Pluralize.pdb
+D:\ulearn C#\ch1\Pluralize\obj\Debug\Pluralize.exe
+D:\ulearn C#\ch1\Pluralize\obj\Debug\Pluralize.pdb

@@ -1,0 +1,7 @@
+D:\ulearn C#\ch1\Billiards\bin\Debug\Billiards.exe.config
+D:\ulearn C#\ch1\Billiards\bin\Debug\Billiards.exe
+D:\ulearn C#\ch1\Billiards\bin\Debug\Billiards.pdb
+D:\ulearn C#\ch1\Billiards\bin\Debug\TestingRoom.dll
+D:\ulearn C#\ch1\Billiards\obj\Debug\Billiards.csprojResolveAssemblyReference.cache
+D:\ulearn C#\ch1\Billiards\obj\Debug\Billiards.exe
+D:\ulearn C#\ch1\Billiards\obj\Debug\Billiards.pdb

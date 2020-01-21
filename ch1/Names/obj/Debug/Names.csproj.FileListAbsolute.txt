@@ -1,0 +1,9 @@
+D:\ulearn C#\ch1\Names\bin\Debug\names.txt
+D:\ulearn C#\ch1\Names\bin\Debug\Names.exe.config
+D:\ulearn C#\ch1\Names\bin\Debug\Names.exe
+D:\ulearn C#\ch1\Names\bin\Debug\Names.pdb
+D:\ulearn C#\ch1\Names\bin\Debug\ZedGraph.dll
+D:\ulearn C#\ch1\Names\bin\Debug\ZedGraph.xml
+D:\ulearn C#\ch1\Names\obj\Debug\Names.csprojResolveAssemblyReference.cache
+D:\ulearn C#\ch1\Names\obj\Debug\Names.exe
+D:\ulearn C#\ch1\Names\obj\Debug\Names.pdb

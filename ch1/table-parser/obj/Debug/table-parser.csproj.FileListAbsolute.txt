@@ -1,0 +1,11 @@
+C:\Users\Un1t\Downloads\table-parser\bin\Debug\TableParser.exe.config
+C:\Users\Un1t\Downloads\table-parser\bin\Debug\data.txt
+C:\Users\Un1t\Downloads\table-parser\bin\Debug\TableParser.exe
+C:\Users\Un1t\Downloads\table-parser\bin\Debug\TableParser.pdb
+C:\Users\Un1t\Downloads\table-parser\bin\Debug\nunit.framework.dll
+C:\Users\Un1t\Downloads\table-parser\obj\Debug\table-parser.csprojResolveAssemblyReference.cache
+C:\Users\Un1t\Downloads\table-parser\obj\Debug\TableParser.ParserMainForm.resources
+C:\Users\Un1t\Downloads\table-parser\obj\Debug\TableParser.Properties.Resources.resources
+C:\Users\Un1t\Downloads\table-parser\obj\Debug\table-parser.csproj.GenerateResource.Cache
+C:\Users\Un1t\Downloads\table-parser\obj\Debug\TableParser.exe
+C:\Users\Un1t\Downloads\table-parser\obj\Debug\TableParser.pdb

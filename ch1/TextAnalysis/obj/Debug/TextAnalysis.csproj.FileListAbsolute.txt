@@ -1,0 +1,11 @@
+D:\ulearn C#\ch1\TextAnalysis\bin\Debug\TextAnalysis.exe.config
+D:\ulearn C#\ch1\TextAnalysis\obj\Debug\TextAnalysis.csprojResolveAssemblyReference.cache
+D:\ulearn C#\ch1\TextAnalysis\obj\Debug\TextAnalysis.Properties.Resources.resources
+D:\ulearn C#\ch1\TextAnalysis\obj\Debug\TextAnalysis.csproj.GenerateResource.Cache
+D:\ulearn C#\ch1\TextAnalysis\bin\Debug\HarryPotterText.txt
+D:\ulearn C#\ch1\TextAnalysis\bin\Debug\TextAnalysis.exe
+D:\ulearn C#\ch1\TextAnalysis\bin\Debug\TextAnalysis.pdb
+D:\ulearn C#\ch1\TextAnalysis\bin\Debug\nunit.framework.dll
+D:\ulearn C#\ch1\TextAnalysis\bin\Debug\nunitlite.dll
+D:\ulearn C#\ch1\TextAnalysis\obj\Debug\TextAnalysis.exe
+D:\ulearn C#\ch1\TextAnalysis\obj\Debug\TextAnalysis.pdb

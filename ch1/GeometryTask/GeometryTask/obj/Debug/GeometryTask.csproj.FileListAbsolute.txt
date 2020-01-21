@@ -1,0 +1,5 @@
+D:\ulearn C#\ch1\GeometryTask\GeometryTask\bin\Debug\GeometryTask.dll
+D:\ulearn C#\ch1\GeometryTask\GeometryTask\bin\Debug\GeometryTask.pdb
+D:\ulearn C#\ch1\GeometryTask\GeometryTask\obj\Debug\GeometryTask.csprojResolveAssemblyReference.cache
+D:\ulearn C#\ch1\GeometryTask\GeometryTask\obj\Debug\GeometryTask.dll
+D:\ulearn C#\ch1\GeometryTask\GeometryTask\obj\Debug\GeometryTask.pdb

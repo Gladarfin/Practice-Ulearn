@@ -1,0 +1,6 @@
+D:\ulearn C#\ch1\PercentageCalculator\PercentageCalculator\bin\Debug\PercentageCalculator.exe.config
+D:\ulearn C#\ch1\PercentageCalculator\PercentageCalculator\bin\Debug\PercentageCalculator.exe
+D:\ulearn C#\ch1\PercentageCalculator\PercentageCalculator\bin\Debug\PercentageCalculator.pdb
+D:\ulearn C#\ch1\PercentageCalculator\PercentageCalculator\obj\Debug\PercentageCalculator.csprojResolveAssemblyReference.cache
+D:\ulearn C#\ch1\PercentageCalculator\PercentageCalculator\obj\Debug\PercentageCalculator.exe
+D:\ulearn C#\ch1\PercentageCalculator\PercentageCalculator\obj\Debug\PercentageCalculator.pdb

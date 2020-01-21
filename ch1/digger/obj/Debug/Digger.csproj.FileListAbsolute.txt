@@ -1,0 +1,14 @@
+D:\ulearn C#\ch1\digger\bin\Debug\11-digger.exe.config
+D:\ulearn C#\ch1\digger\bin\Debug\Images\Digger.png
+D:\ulearn C#\ch1\digger\bin\Debug\Images\Gold.png
+D:\ulearn C#\ch1\digger\bin\Debug\Images\Monster.png
+D:\ulearn C#\ch1\digger\bin\Debug\Images\Sack.png
+D:\ulearn C#\ch1\digger\bin\Debug\Images\Terrain.png
+D:\ulearn C#\ch1\digger\bin\Debug\11-digger.exe
+D:\ulearn C#\ch1\digger\bin\Debug\11-digger.pdb
+D:\ulearn C#\ch1\digger\bin\Debug\nunit.framework.dll
+D:\ulearn C#\ch1\digger\obj\Debug\Digger.csprojResolveAssemblyReference.cache
+D:\ulearn C#\ch1\digger\obj\Debug\Digger.Properties.Resources.resources
+D:\ulearn C#\ch1\digger\obj\Debug\Digger.csproj.GenerateResource.Cache
+D:\ulearn C#\ch1\digger\obj\Debug\11-digger.exe
+D:\ulearn C#\ch1\digger\obj\Debug\11-digger.pdb

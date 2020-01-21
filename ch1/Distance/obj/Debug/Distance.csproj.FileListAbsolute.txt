@@ -1,0 +1,7 @@
+D:\ulearn C#\ch1\Distance\bin\Debug\Distance.exe.config
+D:\ulearn C#\ch1\Distance\bin\Debug\Distance.exe
+D:\ulearn C#\ch1\Distance\bin\Debug\Distance.pdb
+D:\ulearn C#\ch1\Distance\bin\Debug\TestingRoom.dll
+D:\ulearn C#\ch1\Distance\obj\Debug\Distance.csprojResolveAssemblyReference.cache
+D:\ulearn C#\ch1\Distance\obj\Debug\Distance.exe
+D:\ulearn C#\ch1\Distance\obj\Debug\Distance.pdb

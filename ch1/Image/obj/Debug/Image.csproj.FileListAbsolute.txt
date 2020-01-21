@@ -1,0 +1,6 @@
+D:\ulearn C#\ch1\Image\bin\Debug\Recognizer.exe.config
+D:\ulearn C#\ch1\Image\bin\Debug\eurobot.bmp
+D:\ulearn C#\ch1\Image\bin\Debug\Recognizer.exe
+D:\ulearn C#\ch1\Image\bin\Debug\Recognizer.pdb
+D:\ulearn C#\ch1\Image\obj\Debug\Recognizer.exe
+D:\ulearn C#\ch1\Image\obj\Debug\Recognizer.pdb

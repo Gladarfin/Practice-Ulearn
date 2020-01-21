@@ -1,0 +1,8 @@
+D:\ulearn C#\ch1\GeometryPainting\bin\Debug\GeometryPainting.exe.config
+D:\ulearn C#\ch1\GeometryPainting\bin\Debug\GeometryPainting.exe
+D:\ulearn C#\ch1\GeometryPainting\bin\Debug\GeometryPainting.pdb
+D:\ulearn C#\ch1\GeometryPainting\obj\Debug\GeometryPainting.csprojResolveAssemblyReference.cache
+D:\ulearn C#\ch1\GeometryPainting\obj\Debug\GeometryPainting.Properties.Resources.resources
+D:\ulearn C#\ch1\GeometryPainting\obj\Debug\GeometryPainting.csproj.GenerateResource.Cache
+D:\ulearn C#\ch1\GeometryPainting\obj\Debug\GeometryPainting.exe
+D:\ulearn C#\ch1\GeometryPainting\obj\Debug\GeometryPainting.pdb

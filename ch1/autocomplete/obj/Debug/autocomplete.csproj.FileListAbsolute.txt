@@ -1,0 +1,13 @@
+D:\ulearn C#\ch1\autocomplete\bin\Debug\Autocomplete.exe.config
+D:\ulearn C#\ch1\autocomplete\bin\Debug\dic\adjectives.txt
+D:\ulearn C#\ch1\autocomplete\bin\Debug\dic\nouns.txt
+D:\ulearn C#\ch1\autocomplete\bin\Debug\dic\verbs.txt
+D:\ulearn C#\ch1\autocomplete\bin\Debug\Autocomplete.exe
+D:\ulearn C#\ch1\autocomplete\bin\Debug\Autocomplete.pdb
+D:\ulearn C#\ch1\autocomplete\bin\Debug\nunit.framework.dll
+D:\ulearn C#\ch1\autocomplete\obj\Debug\autocomplete.csprojResolveAssemblyReference.cache
+D:\ulearn C#\ch1\autocomplete\obj\Debug\Autocomplete.AutocompleteForm.resources
+D:\ulearn C#\ch1\autocomplete\obj\Debug\Autocomplete.Properties.Resources.resources
+D:\ulearn C#\ch1\autocomplete\obj\Debug\autocomplete.csproj.GenerateResource.Cache
+D:\ulearn C#\ch1\autocomplete\obj\Debug\Autocomplete.exe
+D:\ulearn C#\ch1\autocomplete\obj\Debug\Autocomplete.pdb

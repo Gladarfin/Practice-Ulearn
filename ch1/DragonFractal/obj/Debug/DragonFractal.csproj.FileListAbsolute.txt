@@ -1,0 +1,5 @@
+D:\ulearn C#\ch1\DragonFractal\bin\Debug\DragonFractal.exe.config
+D:\ulearn C#\ch1\DragonFractal\bin\Debug\DragonFractal.exe
+D:\ulearn C#\ch1\DragonFractal\bin\Debug\DragonFractal.pdb
+D:\ulearn C#\ch1\DragonFractal\obj\Debug\DragonFractal.exe
+D:\ulearn C#\ch1\DragonFractal\obj\Debug\DragonFractal.pdb
